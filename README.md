@@ -1,5 +1,8 @@
 # JavaScript-Homework
 
+![alt text](https://github.com/paulhgraham/UFO-Data-Lookup/blob/master/UFO%20Sightings.jpeg)
+
+
 Level 1: Automatic Table and Date Search
 
 Create a basic HTML web page or use the index.html file provided (we recommend building your own custom page!).
