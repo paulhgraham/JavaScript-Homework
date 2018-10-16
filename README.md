@@ -1,4 +1,4 @@
-# JavaScript-Homework
+# JavaScript Exercise
 
 ![alt text](https://github.com/paulhgraham/UFO-Data-Lookup/blob/master/UFO%20Sightings.jpeg)
 
